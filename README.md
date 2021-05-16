@@ -1,19 +1,18 @@
 # server-deployment-practice
 
-# Title / Repository Name
 
 ## About
 
 * this project is to practice server deployment and code testing it has 3 endpoints (/),(/bad,(*))
 
-# Author
+## Author
 Furat Malkawi
 
-# Contact :
+## Contact :
 
 * <https://github.com/furatmalkawi29/server-deployment-practice>
 
 
-# Deployed app 
+## Deployed app 
 
 * <https://furat-server-deploy.herokuapp.com >
