@@ -10,9 +10,8 @@ describe('server', () => {
     expect(response.status).toBe(404);
   });
 
-  it('should get a wecome message', async () => {
+  it('should get a weclome message', async () => {
     //arrange
-    let route = '/';
     //act
     const response = await request.get('/');
     //assert
@@ -20,7 +19,8 @@ describe('server', () => {
     expect(response.text).toBe('hello user');
   });
 
-  it('should get an errore', async () => {
+  it('should get an error', async () => {
+    
     const response = await request.get('/bad');
     expect(response.status).toEqual(500);
   });
