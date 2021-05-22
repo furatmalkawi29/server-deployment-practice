@@ -3,12 +3,14 @@
 
 ## About
 
-* This project is to practice server deployment and code testing. t has 3 endpoints (/),(/bad,(*)) 
+* This project is to practice server deployment and code testing. 
 
 <hr>
 
+
 ## Author
 Furat Malkawi
+
 
 <hr>
 
@@ -126,5 +128,6 @@ npm test
 
 
 ![](./assets/images/uml1.PNG)
+
 
 
