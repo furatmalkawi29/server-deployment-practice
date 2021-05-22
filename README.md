@@ -18,7 +18,7 @@ Furat Malkawi
 
 * [Deployed App](https://furat-api-server.herokuapp.com/)
 
-* [Error Report]()
+* [Error Report](https://github.com/furatmalkawi29/server-deployment-practice/actions/runs/866351105/workflow)
 
 <hr>
 
